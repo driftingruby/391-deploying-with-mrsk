@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails.git
-  revision: dd7ecb073c67fee00e409049f02d72accece94a2
+  revision: f067caae165af3646ddc06b21fee3c628d8909b0
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -108,7 +108,6 @@ GEM
     cssbundling-rails (1.1.2)
       railties (>= 6.0.0)
     date (3.3.3)
-    debug (1.7.1)
     devise (4.9.0)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -219,7 +218,6 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   cssbundling-rails
-  debug
   devise
   jsbundling-rails
   mrsk (~> 0.8.4)
